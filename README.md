@@ -6,8 +6,14 @@ The paper can be found [here](https://www.frontiersin.org/articles/10.3389/fbinf
 If you find our work useful for your research please consider citing:
 
 
->@article{eliasof2021mimetic,
-  title={Mimetic neural networks: A unified framework for protein design and folding},
-  author={Eliasof, Moshe and Boesen, Tue and Haber, Eldad and Keasar, Chen and Treister, Eran},
-  journal={arXiv preprint arXiv:2102.03881},
-  year={2021}}
+>@article{Eliasof2022mimetic,
+  doi = {10.3389/fbinf.2022.715006},
+  url = {https://doi.org/10.3389/fbinf.2022.715006},
+  year = {2022},
+  month = may,
+  publisher = {Frontiers Media {SA}},
+  volume = {2},
+  author = {Moshe Eliasof and Tue Boesen and Eldad Haber and Chen Keasar and Eran Treister},
+  title = {Mimetic Neural Networks: A Unified Framework for Protein Design and Folding},
+  journal = {Frontiers in Bioinformatics}
+}
